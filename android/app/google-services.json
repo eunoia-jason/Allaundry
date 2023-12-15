@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638440529202",
+    "project_id": "project-e3738",
+    "storage_bucket": "project-e3738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638440529202:android:a36335db00d0a31ef7cb2b",
+        "android_client_info": {
+          "package_name": "com.example.allaundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638440529202-nkj176kqe114b2up8tnu2v8ijihpa73a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhRKGYskvyR_jwS17DpoNor8cyPRpri84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638440529202-nkj176kqe114b2up8tnu2v8ijihpa73a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
